@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: linear-gradient(
+        to bottom,
+        white 0%,
+        white 50%,
+        #2B2730 50%,
+        #2B2730 100%
+    );
+    
+    
+}
+.container {
+    margin-left: 240px;
+    margin-top: 32px;
+    display: flex; 
+    gap: 50px;
+}
+
+.titulo1{
+    margin-top: 34px;
+    color: #2B2730;
+    font-family: Poppins;
+}
+
+.box {
+    width: Fixed;
+    height: 52px;
+    justify-content: space-between;
+    font-family: Poppins;
+    margin-top: 48px;
+}
+
+.botao2 {
+    font-family: Poppins;
+    margin-top: 46px;
+    margin-left: 564px;          
+}
+.botao {
+    width: 112px;
+    height: 52px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 100px;
+    gap: 10px;
+    background: #2B2730;
+    color: white;
+    margin-left: 40px;
+    margin-top: 32px;    
+}
+.container2 {
+    display: flex;
+    margin-top: 200px;
+    margin-left: 240px;
+   
+}
+
+.learnfrom {
+    font-family: Poppins;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #2B2730;
+}
+
+.eclipse {
+    margin-left: 300px;  
+}
+
+.container3 {
+    margin-left: 240px;
+    margin-top: 116px;
+}
+
+.get {
+    margin-top: 118px;
+    margin-left: 240px;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 72px;
+    color: white;
+}
+
+.row {
+    margin-top: 116px;
+    margin-left: 240px;
+}
+
+.creators {
+    margin-top: 116px;
+    margin-left: 240px;
+}
+
+.container4 {
+    margin-left: 240px;
+    margin-top: 116px;
+}
+
+.titulo2 {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    text-align: left;
+    color: #2B2730;
+}
+.paragrafo{
+    margin-top: 24px;
+
+}
+
+.botao2 {
+    width: 182px;
+    height: 52px;
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 32px;
+    gap: 8px;  
+}
